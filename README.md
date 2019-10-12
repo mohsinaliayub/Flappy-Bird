@@ -2,5 +2,6 @@
 Flappy Bird game in Android Studio using Java libGDX.
 
 # FB AppId and AppSecret
-Please go to DataManager class found [here](/core/src/com/game/submission/DataManager.java)
-these two values. Thanks.
+Please go to [DataManager class](/core/src/com/submission/game/DataManager.java) and change
+these mAppId and mAppSecret to share score on Facebook. You may need to create Facebook API. 
+Thanks
