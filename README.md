@@ -2,5 +2,5 @@
 Flappy Bird game in Android Studio using Java libGDX.
 
 # FB AppId and AppSecret
-Please go to DataManager class found at Flappy-Bird/core/src/com/submission/game/DataManager.java and change
+Please go to DataManager class found at [a relative link](core/src/com/game/submission/DataManager.java)
 these two values. Thanks.
