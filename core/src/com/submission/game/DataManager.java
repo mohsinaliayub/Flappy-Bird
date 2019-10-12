@@ -14,8 +14,9 @@ public class DataManager {
 
     static final String HIGH_SCORE = "com.submission.game.HIGH_SCORE";
 
-    private String mAppId = "1449005688544757";
-    private String mAppSecret = "bb5907b71e53cbb57369620be97397de";
+    // TODO: Please update mAppId and mAppSecret with your FB AppId and AppSecret
+    private String mAppId = "YOUR_FB_APP_ID";
+    private String mAppSecret = "YOUR_FB_APP_SECRET";
     private Preferences mPreferences = null;
     private String mAccessToken = null;
     private static DataManager sDataManager = null;
